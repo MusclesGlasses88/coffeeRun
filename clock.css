@@ -1,0 +1,19 @@
+body {
+    background: url(images/watch.png)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+
+    }
+
+#clock{
+    padding-top: 230px;
+    padding-right: 305px;
+    font-size: 20px;
+    font-style: italic;
+
+
+}
